@@ -32,7 +32,7 @@ $db_user = 'postgres';
 $db_pass = '123456';
 
 // Jumlah baris per halaman untuk tampilan web
-define('ROWS_PER_PAGE', 100);
+define('ROWS_PER_PAGE', 50);
 
 // ─── Koneksi Database ─────────────────────────────────────────────────────────
 try {
